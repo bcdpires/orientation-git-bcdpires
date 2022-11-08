@@ -135,7 +135,7 @@ Windows
 
 ---
 
-## Commiting Changes Locally
+## Committing Changes Locally
 *This step will typically be done one or more times on a project. Larger projects may require you to complete this step many times.*
 1. On your Command Line, type: 
     ```
