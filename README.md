@@ -3,7 +3,7 @@
 This github repository will walk you through setting up your Git and GitHub accounts. The intention of this project is to ensure your computer's environment is set up correctly and to give a preview of the Git work flow.  A deeper-dive into Git with additional functionality and explanations of each command will be part of your continued learning at BloomTech.
 
 ---
-
+ 
 ## Checklist
 
 - [x] View this README  
@@ -150,7 +150,7 @@ Windows
 
 ---
 
-## Pushing Changes to GitHub
+## Pushing Changes to GitHub 
 *This step will typically be done one or more times on a project. If connected to Codegrade, this will cause your project to be scored again.*
 1. Type:
     ```
